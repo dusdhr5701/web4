@@ -1,2 +1,2 @@
 cd web4
-echo "please">index.HTML
+echo "please..">index.HTML
