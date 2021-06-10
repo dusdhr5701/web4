@@ -1,2 +1,5 @@
 cd web4
 echo "please..">index.HTML
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
